@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    font-family: norwester;
+}
+
+@font-face {
+    font-family: norwester ;
+    src: url(fonts/norwester.otf);
+}
+
+object{
+position: absolute ;
+}
+
+.cuadro{
+    position: absolute;
+    height: 1300px;
+    width: 65.5%;
+    background-color: white;
+    margin: -110% 0 0 17.2% ;
+    border-radius: 4%;
+}
+
+.img{
+    position: absolute;
+    margin: -18% 0 0 23%;
+}
+
+.services{
+    position: absolute;
+    list-style: none;
+    font-size: 140%;
+    top: 20%;
+    left: -2px;
+}
+
+.prices{
+    position: absolute;
+    list-style: none;
+    font-size: 140%;
+    top: 20%;
+    right: 5%;
+}
+
+.vitamins{
+    position: relative;
+    left: 5%;
+}
+
+.priceshw{
+    position: relative;
+    left: 25%;
+}
+
+.lineablanca{
+color: white;
+}
+
+h1{
+    position: relative;
+    top: 88%;
+    left: 4.5%;
+    font-weight: 100;
+}
+
+h2{
+    position: relative;
+    top: 86%;
+    left: 81.5%;
+    font-size: 120%;
+    font-weight: 100;
+}
+
+h3{
+    position: relative;
+    top: 87% ;
+    left: 4.5%;
+    font-weight: 100;
+    font-size: 120%;
+}
+
+h4{
+    position: relative;
+    top: 85.2%;
+    left: 70.2%;
+    font-size: 120%;
+    font-weight: 100;
+}
